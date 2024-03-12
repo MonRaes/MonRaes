@@ -9,7 +9,7 @@ class SobreMim extends Desenvolvedor {
 ```
 
  
-<div> 
+<div align="center"> 
   <a href = "mailto:moni"><img src="https://img.shields.io/badge/-Gmail-DC3521?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/monique-f-moraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.artstation.com/monferick" target="_blank"><img src="https://img.shields.io/badge/-Artstation-0A0A0D?style=for-the-badge&logo=artstation&logoColor=158FBF" target="_blank"></a> 
@@ -20,7 +20,7 @@ class SobreMim extends Desenvolvedor {
 
 ```js
 class Programacao extends Desenvolvedor {
-  linguagens =
+  'linguagens ='
 ```
 
 <div align="center">
@@ -47,6 +47,28 @@ class Programacao extends Desenvolvedor {
   <img width="12" />
 
 </div>
+
+```js
+  'bancos de dados ='
+```
+<div align="center">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" height="30" alt="mongo logo"/>        
+  <img width="12" />
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"/>        
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain.svg" height="30" alt="redis logo"/>        
+  <img width="12" />
+
+</div>
+
+
+```js
+}
+```
+##
 
 ```js
 class Computacao_Grafica extends Desenvolvedor {
@@ -96,6 +118,12 @@ class Computacao_Grafica extends Desenvolvedor {
   <img width="12" />
   
 </div>
+
+```js
+}
+```
+
+##
 
 <table>
   <tr>
